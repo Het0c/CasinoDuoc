@@ -18,6 +18,11 @@ public class PjtCasinoDuoc {
         
         System.out.println("hola mundo xd");
         System.out.println("penepenepene");
+        
+        String name = "nn";
+        //Funciona, Funciona????????????
+        
+        
     }
     
 }
