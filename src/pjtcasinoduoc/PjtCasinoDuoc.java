@@ -17,6 +17,7 @@ public class PjtCasinoDuoc {
         // TODO code application logic here
         
         System.out.println("hola mundo xd");
+        System.out.println("penepenepene");
     }
     
 }
